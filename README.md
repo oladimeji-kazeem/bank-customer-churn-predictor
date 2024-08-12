@@ -1,4 +1,4 @@
-# Bank Customer Churn Analytics and Solution
+# Bank Customer Churn Prodiction
 
 ## Overview
 
